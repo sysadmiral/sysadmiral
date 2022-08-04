@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👋 I'm Amo.
+- 👋 I'm Amo
 - 😄 Pronouns: He/Him/His
-- :telescope: I'm working on Google Cloud Platform (GCP)
+- :telescope: I'm working on Google Cloud
 -  :cloud: I work for Cloud Technology Solutions (https://cts.co)
     - [find them on github](https://github.com/Cloud-Technology-Solutions)
     - or twitter as [@cloudsols](https://twitter.com/cloudsols)
