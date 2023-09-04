@@ -7,10 +7,10 @@
     - [find them on github](https://github.com/Cloud-Technology-Solutions)
     - or twitter as [@cloudsols](https://twitter.com/cloudsols)
     - or on [LinkedIn](https://www.linkedin.com/company/cloud-technology-solutions/)
-- 🌱 I :heart: learning. Right now I'm focussed on GCP certifications.
+- 🌱 I :heart: learning. Right now I hold all professional GCP certifications (except Workspace Administration).
 - 💬 Ask me about "the cloud", kubernetes, web technologies, being Lean, Continuous Delivery.
 - 📫 How to reach me: I use the nickname @sysadmiral in most places.
-    - I prefer [Twitter](https://twitter.com/sysadmiral)
+    - I am on [X](https://twitter.com/sysadmiral)
     - I am on [LinkedIn](https://www.linkedin.com/in/amo-chumber/)
 
 <!--
