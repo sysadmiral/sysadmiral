@@ -5,7 +5,7 @@
 - :telescope: I'm working on Google Cloud
 -  :cloud: I work for Cloud Technology Solutions (https://cts.co)
     - [find them on github](https://github.com/Cloud-Technology-Solutions)
-    - or twitter as [@cloudsols](https://twitter.com/cloudsols)
+    - or X as [@cloudsols](https://twitter.com/cloudsols)
     - or on [LinkedIn](https://www.linkedin.com/company/cloud-technology-solutions/)
 - 🌱 I :heart: learning. Right now I hold all professional GCP certifications (except Workspace Administration).
 - 💬 Ask me about "the cloud", kubernetes, web technologies, being Lean, Continuous Delivery.
